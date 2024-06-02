@@ -1,0 +1,11 @@
+US08 - Notificación de Actualizaciones a los Usuarios
+
+Como usuario de la aplicación de reciclaje, 
+quiero recibir notificaciones sobre nuevas actualizaciones y mejoras en el servicio de reciclaje 
+para estar al tanto de las nuevas funcionalidades y mejoras disponibles.
+
+Escenario: Recepción de Notificación sobre Actualizaciones en la Aplicación
+
+Dado que se implementa una nueva actualización en la aplicación de reciclaje
+Cuando el usuario inicia sesión en la aplicación
+Entonces recibe una notificación que informa sobre la disponibilidad de la nueva actualización y detalla las mejoras realizadas
