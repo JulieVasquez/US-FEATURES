@@ -1,4 +1,4 @@
-Feature: US01 - Registro de Servicios de Reciclaje
+Feature: US02 - Visualización de Servicios de Reciclaje Registrados
 
 Como usuario de la aplicación de reciclaje, 
 quiero poder ver los servicios de reciclaje que he registrado en la aplicación 
