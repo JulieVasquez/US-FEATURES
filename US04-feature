@@ -1,0 +1,11 @@
+Feature: US04 - Iniciar Sesión y Acceder a los servicios
+
+Como usuario de la aplicación de reciclaje, 
+quiero poder iniciar sesión en la aplicación y proporcionar los datos necesarios 
+para acceder a los servicios
+
+Escenario: Inicio de sesion y Acceso 
+
+Dado que el usuario está dentro de la aplicación de reciclaje
+Cuando ingresa a la seccion "Accede"
+Entonces puede visualizar claramente el formulario de inicio de sesion
