@@ -1,0 +1,10 @@
+US05 - Retroalimentación del Usuario
+Como usuario de la aplicación de reciclaje, 
+quiero poder proporcionar retroalimentación sobre mi experiencia con el proceso de reciclaje recomendado 
+para contribuir a la mejora continua del servicio.
+
+Escenario: Ingreso de comentarios y/o dudas
+
+Dado que el usuario está revisando la lista de servicios 
+Cuando selecciona "Comunicate con Nosotros"
+Entonces puede visualizar el formulario para enviar un mensaje o comentario
